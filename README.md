@@ -3,6 +3,11 @@
 
 ## Instructions:
 
-1. Type: `git clone https://github.com/SimonFJ20/cpp-make-template .`
-2. Type: `make setup`
+1. `mkdir MYPROJECT && cd MYPROJECT`
+2. `git clone https://github.com/SimonFJ20/cpp-make-template .`
+3. `rm -rf .git`
+4. `make setup`
 
+**Or just**
+
+`git clone https://github.com/SimonFJ20/cpp-make-template . && rm -rf .git && make setup`
