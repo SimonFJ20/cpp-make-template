@@ -1,11 +1,5 @@
 {
     "C_Cpp.default.includePath": [
         "${workspaceFolder}/include"
-    ],
-    "files.associations": {
-        "*.wchtml": "html",
-        "*.wcstyle": "css",
-        "*.pde": "pde",
-        "random": "cpp"
-    }
+    ]
 }
