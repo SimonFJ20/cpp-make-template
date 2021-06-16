@@ -3,10 +3,8 @@
 
 ## Instructions:
 
-1. `mkdir MYPROJECT && cd MYPROJECT`
-2. `git clone https://github.com/SimonFJ20/cpp-make-template .`
-3. `rm -rf .git`
-4. `make setup`
+1. `git clone https://github.com/SimonFJ20/cpp-make-template .`
+2. `make setup`
 
 **Or just**
 
